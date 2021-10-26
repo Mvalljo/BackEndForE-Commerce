@@ -1,5 +1,5 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://spdx.org/licenses/MIT.html)
-# BackEndForE-Commerce
+# Back End For E-Commerce
 ## Description
 Build the back end for an e-commerce site with a starter code by configuring a working Express.js API to use Sequelize to interact with a MySQL database.
 ## Table of Contents
